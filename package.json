@@ -1,0 +1,20 @@
+{
+  "name": "ethutil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansicolor": "^1.1.84",
+    "as-table": "^1.0.44",
+    "asciichart": "^1.5.7",
+    "ccxt": "^1.18.597",
+    "ololog": "^1.1.128",
+    "web3": "^1.0.0-beta.55"
+  }
+}
